@@ -3,7 +3,7 @@ Desenvolvido em OutSystems, o sistema foi feito para uma revenda de carros, poss
 
 link: https://personal-czdo6tte.outsystemscloud.com/App_Garagem/Home?_ts=638514042023061761
 
-## Login de Adiministrador
+## Login de Administrador
 email: iara.costas@gmail.com
 senha: 123456
 
